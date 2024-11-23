@@ -1,2 +1,3 @@
 Install VSCode.
-Install PIP Manager. Use it to add required modules to Python programs.
+Inside VSCode istall PIP Manager. 
+Use this manager to add required modules to Python code.
